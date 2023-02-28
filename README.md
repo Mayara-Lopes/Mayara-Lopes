@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/Mayara-Lopes">
-   <img height="180em" src="https://github-readme-stats-tent1.vercel.app/api?username=Mayara-Lopes&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats-tent1.vercel.app//api/top-langs/?username=Mayara-Lopes&layout=compact&langs_count=6&theme=bear"/>
+   <img height="180em" src="https://github-readme-stats-git-master-mayara-lopes-s-team.vercel.app/api?username=Mayara-Lopes&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats-git-master-mayara-lopes-s-team.vercel.app/api/top-langs/?username=Mayara-Lopes&layout=compact&langs_count=6&theme=bear"/>
 
 </div>
 <div style="display: inline_block"><br>
